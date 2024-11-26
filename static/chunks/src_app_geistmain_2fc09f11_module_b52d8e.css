@@ -1,0 +1,26 @@
+/* [project]/src/app/geistmain_2fc09f11.module.css [app-client] (css) */
+@font-face {
+  font-family: geistMain;
+  src: url("../media/PlayfairDisplay-s.p.51c90b46.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: geistMain Fallback;
+  src: local(Arial);
+  ascent-override: 106.51%;
+  descent-override: 24.71%;
+  line-gap-override: 0.0%;
+  size-adjust: 101.58%;
+}
+
+.geistmain_2fc09f11-module__E0X3cG__className {
+  font-family: geistMain, geistMain Fallback;
+}
+
+.geistmain_2fc09f11-module__E0X3cG__variable {
+  --font-geist-main: "geistMain", "geistMain Fallback";
+}
+
+/*# sourceMappingURL=src_app_geistmain_2fc09f11_module_b52d8e.css.map*/

@@ -1,0 +1,94 @@
+/* [project]/src/components/header.module.css [app-client] (css) */
+.header-module__3iWRfG__conteiner {
+  max-width: 1600px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.header-module__3iWRfG__first_head {
+  margin: 15px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-module__3iWRfG__first_head_item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.header-module__3iWRfG__first_head_item_phone {
+  background-image: url("../media/phone.45616b31.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none;
+  width: 20px;
+  height: 24px;
+}
+
+.header-module__3iWRfG__first_head_item_logo {
+  background-image: url("../media/logo.dab1cae9.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none;
+  width: 155px;
+  height: 61px;
+}
+
+.header-module__3iWRfG__first_head_item_place {
+  background-image: url("../media/tochka.e5061de1.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none;
+  width: 15px;
+  height: 20px;
+}
+
+.header-module__3iWRfG__first_head_item_text {
+  margin-left: 10px;
+}
+
+.header-module__3iWRfG__second_head {
+  margin: 15px 0;
+}
+
+.header-module__3iWRfG__second_head_menu {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+}
+
+.header-module__3iWRfG__second_head_menu_link {
+  text-decoration: none;
+  color: #e7d5a1;
+}
+
+.header-module__3iWRfG__second_head_menu_icon {
+  display: flex;
+}
+
+.header-module__3iWRfG__second_head_menu_icon_img {
+  margin-left: 40px;
+}
+
+.header-module__3iWRfG__second_head_menu_icon_img_person {
+  background-image: url("../media/person.58f8cdd3.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none;
+  width: 33px;
+  height: 33px;
+}
+
+.header-module__3iWRfG__second_head_menu_icon_img_basket {
+  background-image: url("../media/basket.37697a4e.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none;
+  width: 36px;
+  height: 34px;
+}
+
+/*# sourceMappingURL=src_components_header_module_b52d8e.css.map*/

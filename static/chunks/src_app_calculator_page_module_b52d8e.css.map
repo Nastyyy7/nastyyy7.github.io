@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/src/app/calculator/page.module.css"],"sourcesContent":[".conteiner {\n  max-width: 1600px;\n  width: 100%;\n  margin: 0 auto;\n}\n\n.calculator {\n  margin: 2%;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n.calculator_text {\n  text-align: center;\n  font-size: 20px;\n  width: 50%;\n}/*# sourceMappingURL=page.module.css.map */"],"names":[],"mappings":"AAAA;;;;;;AAMA;;;;;;;AAMA"}},
+    {"offset": {"line": 19, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

@@ -1,0 +1,45 @@
+/* [project]/src/app/services/page.module.css [app-client] (css) */
+.page-module__VKYseq__conteiner {
+  max-width: 1600px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.page-module__VKYseq__watch {
+  background-image: url("/_next/static/media/service-watch.e3d50f65.png");
+  background-repeat: no-repeat;
+  background-position: 100%;
+}
+
+.page-module__VKYseq__content {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.page-module__VKYseq__content_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.page-module__VKYseq__content_block_img {
+  background-image: url("/_next/static/media/services.7e96f7f0.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none;
+  width: 425px;
+  height: 1100px;
+  border-radius: 10px;
+}
+
+.page-module__VKYseq__content_block_text {
+  width: 1130px;
+}
+
+.page-module__VKYseq__content_text {
+  font-size: 28px;
+}
+
+/*# sourceMappingURL=src_app_services_page_module_b52d8e.css.map*/

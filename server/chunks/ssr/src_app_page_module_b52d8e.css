@@ -1,0 +1,122 @@
+/* [project]/src/app/page.module.css [app-client] (css) */
+.page-module___8aEwW__conteiner {
+  max-width: 1600px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.page-module___8aEwW__fon {
+  background-image: url("/_next/static/media/fon.96372836.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.page-module___8aEwW__main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.page-module___8aEwW__main_logo {
+  background-image: url("/_next/static/media/main-logo.3ba86e86.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none;
+  width: 711px;
+  height: 280px;
+}
+
+.page-module___8aEwW__main_img {
+  background-image: url("/_next/static/media/main-watch.2a93c02c.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none;
+  width: 585px;
+  height: 800px;
+}
+
+.page-module___8aEwW__offers {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.page-module___8aEwW__offers_title {
+  margin-top: 40px;
+  font-size: 40px;
+}
+
+.page-module___8aEwW__offers_block {
+  margin: 50px 0;
+  width: 1100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px 235px;
+}
+
+.page-module___8aEwW__offers_block_item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.page-module___8aEwW__offers_block_item_img1 {
+  background-image: url("/_next/static/media/icon-watch.2949be65.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none;
+  width: 122px;
+  height: 170px;
+}
+
+.page-module___8aEwW__offers_block_item_img2 {
+  background-image: url("/_next/static/media/icon-watch2.78d7a283.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none;
+  width: 165px;
+  height: 165px;
+}
+
+.page-module___8aEwW__offers_block_item_img3 {
+  background-image: url("/_next/static/media/icon-watch3.f0eb12d4.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none;
+  width: 150px;
+  height: 171px;
+}
+
+.page-module___8aEwW__offers_block_item_img4 {
+  background-image: url("/_next/static/media/battery.99277444.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none;
+  width: 180px;
+  height: 105px;
+}
+
+.page-module___8aEwW__offers_block_item_img5 {
+  background-image: url("/_next/static/media/repair.867e5006.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none;
+  width: 209px;
+  height: 172px;
+}
+
+.page-module___8aEwW__offers_block_item_text {
+  font-weight: 300;
+  margin-top: 25px;
+}
+
+.page-module___8aEwW__watch {
+  background-image: url("/_next/static/media/watch.24cc5324.png");
+  background-repeat: no-repeat;
+  background-position: 100%;
+}
+
+/*# sourceMappingURL=src_app_page_module_b52d8e.css.map*/
